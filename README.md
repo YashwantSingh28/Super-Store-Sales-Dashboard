@@ -6,4 +6,4 @@ To contribute to the success of a business by utilizing data analysis techniques
 * Conducted thorough data cleaning, applied advanced analytics techniques to generate sales forecasts, and delivered insightful data analysis.
 * This project showcases my expertise in data visualization, forecasting, and data-driven decision-making, highlighting my ability to transform complex data into actionable insights for optimized business strategies.
 # Skills:- 
-Microsoft Excel, Microsoft Power BI, Data Analysis, Forecasting, KPI Dashboards, Microsoft Power Query, DAX Functions
+Microsoft Excel, Microsoft Power BI, Data Analysis, Forecasting, KPI Dashboards, DAX Functions
